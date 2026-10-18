@@ -48,11 +48,3 @@ The part I care about most is making AI produce useful work product rather than 
 **One thing I'd love feedback on:** Which part of the freelance workflow burns the most unpaid time for you—pricing, client communication, scope creep or planning the shoot?
 
 ---
-
-### Submission checklist (delete this before publishing)
-
-- [ ] Replace the demo placeholder with a deployed link or video demo.
-- [ ] Add the GitHub repository link.
-- [ ] Run the app with Gemma/Ollama and capture a real generation (not only sample preview).
-- [ ] Have at least one real creator try it, if possible, and report exactly what happened. Do not imply feedback or payment unless it happened.
-- [ ] Confirm the challenge's current submission form/rules and select any partner category only if it was genuinely used.
